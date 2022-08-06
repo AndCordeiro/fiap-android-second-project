@@ -1,10 +1,7 @@
 # Roleta da sorte
 
-VersionCode: 2.0
-VersionName: "2"
 
-# Introdução
+## Exercicio da aula de android
 
-O aplicativo sorteia um número e compara com o número inserido pelo usuário.
-
-![ex3](https://user-images.githubusercontent.com/17274257/183255414-f3d62e27-d42e-4152-bc7a-13ac0bf44071.png)
+Exercicio 1 parte 1 = branch "exe1" <br />
+Exercicio 1 parte 2 = branch "exe1part2"
